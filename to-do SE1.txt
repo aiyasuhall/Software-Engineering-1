@@ -1,0 +1,2 @@
+dump => make a table (create header)
+create addElement in main (add actor such as student or professor)
